@@ -1,4 +1,4 @@
-/* eslint-disable prettier/prettier */
+
 const data = require('../inventory.json')
 class IndividualUser {
     constructor(isManager = false) {
